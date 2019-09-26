@@ -1,0 +1,22 @@
+{
+  "name": "clockbar",
+  "version": "1.0.0",
+  "description": "A bar that shows different times",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron .",
+    "start": "electron ."
+  },
+  "keywords": [
+    "clock",
+    "bar"
+  ],
+  "author": "Scott Lindh",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^6.0.10"
+  },
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
