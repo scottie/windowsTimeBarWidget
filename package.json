@@ -14,7 +14,7 @@
   "author": "Scott Lindh",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^6.0.10"
+    "electron": "^15.5.5"
   },
   "dependencies": {
     "socket.io": "^2.3.0"
